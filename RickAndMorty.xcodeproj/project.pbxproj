@@ -134,8 +134,8 @@
 			isa = PBXGroup;
 			children = (
 				F942150B29575D160064FEB3 /* RMService.swift */,
-				F942150F29575DB00064FEB3 /* RMEndpoint.swift */,
 				F942150D29575D280064FEB3 /* RMRequest.swift */,
+				F942150F29575DB00064FEB3 /* RMEndpoint.swift */,
 			);
 			path = APIClient;
 			sourceTree = "<group>";
