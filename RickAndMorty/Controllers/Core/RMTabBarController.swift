@@ -31,7 +31,7 @@ final class RMTabBarController: UITabBarController {
         let nav3 = UINavigationController(rootViewController: episodesVC)
         let nav4 = UINavigationController(rootViewController: settingsVC)
         
-        nav1.tabBarItem = .init(title: "Character", image: .init(systemName: "person.fill"), tag: 1)
+        nav1.tabBarItem = .init(title: "Character", image: .init(systemName: "person"), tag: 1)
         nav2.tabBarItem = .init(title: "Locations", image: .init(systemName: "globe"), tag: 2)
         nav3.tabBarItem = .init(title: "Episodes", image: .init(systemName: "tv"), tag: 3)
         nav4.tabBarItem = .init(title: "Settings", image: .init(systemName: "gear"), tag: 4)
